@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChainsAre2Tight
 - 👀 I’m interested in web application security and web development
-- 🌱 I’m currently learning ethical hacking
+- 🌱 I’m currently learning how to breathe
 - 📫 How to reach me: 🙏Just🙏pray🙏
 
 <!---
